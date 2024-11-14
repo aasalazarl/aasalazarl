@@ -1,6 +1,6 @@
 **INTRODUCING MYSELF**
 
-![GithubBanner](https://github.com/user-attachments/assets/3a3e452d-32fe-4c99-adc8-1c878f3fd293)
+![GithubBanner](https://github.com/user-attachments/assets/78ce7270-a5e9-44d5-a377-9f7891db239b)
 
 Hello! My name is Alejandro. I am a Data Analyst specializing in data visualization, data cleaning, simulations and computer modeling, and manipulation of data for a variety of applications.
 
@@ -11,7 +11,7 @@ My work encompasses:
 * Mathematical modeling
 * Simulations of dynamic phenomena
 
-I have successfully applied these skills across several fields, including science, finance, marketing, machine learning, artificial intelligence, and physics.
+I have successfully applied these skills across several fields, including **Science**, **Finance**, **Marketing**, **Machine Learning**, **Artificial Intelligence**, **Physics**, and **Mathematics**.
 
 📚 **PROJECTS**
 
