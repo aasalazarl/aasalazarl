@@ -18,10 +18,10 @@ I have successfully applied these skills across several fields, including scienc
 Notable projects:
 - Created machine learning software development for analyzing large datasets for the MoEDAL-MAPP Collaboration at the Large Hadron Collider.
 - Conducted A/B testing for marketing strategies.
-- Tested AI applications for Google Assistant and Android applications.
+- Tested AI applications for Google Assistant and Android applications (through DataAnnotation).
 - Explored digital holography and tomography with programming.
 - Designed Honors Science Data Analysis for Experimental Physics course at the University of Alberta.
-- Processed seismic signals for event localization for Nanometrics Inc.
+- Processed seismic signals for event localization at Nanometrics Inc.
 - Studentship focused on overstock analysis and marketing mix strategies.
 
 My work involves translating sophisticated scientific tools and models for adaptation to dynamic market processes through programming.
