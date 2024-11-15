@@ -1,6 +1,6 @@
 **INTRODUCING MYSELF**
 
-![GithubBanner](https://github.com/user-attachments/assets/78ce7270-a5e9-44d5-a377-9f7891db239b)
+![GithubBanner](https://github.com/user-attachments/assets/3d22abfb-6542-456d-93b1-e348ad9cdd2c)
 
 Hello! My name is Alejandro. I am a Data Analyst specializing in data visualization, data cleaning, simulations and computer modeling, and manipulation of data for a variety of applications.
 
