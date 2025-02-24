@@ -30,11 +30,13 @@ Check out a full catalogue of my projects [here](https://aasalazarl.github.io/).
 
 🛠️ **TOOLS**
 
-- *Programming languages*: **Python**, **SQL**, **C++**, **Matlab**, **R**, **Java**, and **Wolfram**
+- *Programming languages*: **Python**, **JavaScript** **SQL**, **C++**, **Matlab**, **R**, **Java**, and **Wolfram**
   
 - *Libraries*:
   
   **Python**: *pandas*, *numpy*, *matplotlib*, *scipy*, *scikit-learn*, *pytorch*, *torcharrow*, *seaborn*, *plotly*
+
+  **JavaScript**: *canvas*
   
   **Matlab**: *fitlm*
   
