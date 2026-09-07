@@ -1,6 +1,6 @@
 **INTRODUCING MYSELF**
 
-Hello! My name is Alejandro. I am a Data Scientist specializing in data visualization, data cleaning, simulations and computer modeling, and manipulation of data for a variety of applications.
+Hello! My name is Al. I am a Data Scientist specializing in data visualization, data cleaning, simulations and computer modeling, and manipulation of data for a variety of applications.
 
 My work encompasses:
 * Error analysis
@@ -48,7 +48,7 @@ Check out a full catalogue of my projects [here](https://aasalazarl.github.io/).
 
 👋 **LET'S CONNECT**
 
-- [Linkedin](https://www.linkedin.com/in/alejandrosalazarl/)
+- [Linkedin](https://www.linkedin.com/in/al-salazar/)
 
 <!--
 **aasalazarl/aasalazarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
